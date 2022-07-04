@@ -1,0 +1,21 @@
+.threejs {
+    font-weight: 900;
+    margin-top: 50px;
+    font-size: 30px;
+
+    span.siteLink {
+        font-size: 40px;
+        color: #4cc9f0;
+    }
+
+}
+
+
+.threejs__canvas__container {
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
